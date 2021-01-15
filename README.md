@@ -11,4 +11,4 @@ Top Spenders: Identify top five spenders and provide- screenname, purchase count
 Most Popular Items: Identify top five items by purchase count and provide- item id, item name, purchase count, item price, and total price value.
 Most Profitable Items: Itentify top five items by purchase value(price) and provide- item id, item name, purchase count, item price, and total price value.
 
-Then provide a written analysis with three observable trends regarding the data provided.
+Then provide a written analysis with three observable trends regarding the data provided. 
