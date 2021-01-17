@@ -1,4 +1,6 @@
-# pandas-challenge
+# Heroes of Pymoli
+![][fantasy]
+
 UNCC Bootcamp assignment for Pandas
 
 In this assigment, I have taken the role of lead analyst to go through data produced by a gaming company for their newest title "Heroes of Pymoli". While it is a free-to-play (FTP) game, purchases are encouraged for various items to be used during gameplay. The company has asked for a comprehensive summary of purchases in the following categories:
