@@ -1,5 +1,5 @@
 # Heroes of Pymoli
-![][fantasy]
+![][fantasy.png]
 
 UNCC Bootcamp assignment for Pandas
 
