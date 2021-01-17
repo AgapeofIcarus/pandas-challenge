@@ -1,5 +1,5 @@
 # Heroes of Pymoli
-![][fantasy.png]
+![Heroes of Pymoli](https://github.com/AgapeofIcarus/pandas-challenge/blob/main/Fantasy.png?raw=true)
 
 UNCC Bootcamp assignment for Pandas
 
